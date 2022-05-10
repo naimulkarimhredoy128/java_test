@@ -10,5 +10,5 @@ package myfancyjavaproject;
  * @author HP
  */
 public interface Shape {
-    void draw();
+    void draw_shape();
 }

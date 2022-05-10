@@ -11,7 +11,7 @@ package myfancyjavaproject;
  */
 public class Square implements Shape {
      @Override
-	 public void draw()
+	 public void draw_shape()
 	 {
 		 System.out.println("a square drawn");
 	 }

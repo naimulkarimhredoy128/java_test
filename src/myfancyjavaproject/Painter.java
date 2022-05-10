@@ -12,6 +12,6 @@ package myfancyjavaproject;
 public class Painter {
     public static void main(String[] args) {
         Circle p=new Circle();
-        p.draw();
+        p.draw_shape();
     }
 }
